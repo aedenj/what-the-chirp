@@ -13,3 +13,7 @@ The goal of our project is to identify birds through their birdsong to facilitat
   This notebook contains metadata analyis of the audio dataset, audio analyis, dataset balancing and dataset preparation for export to Edge Impulse.
 
 * Edge Impulse Project - https://studio.edgeimpulse.com/studio/419222
+
+* model.py
+
+  This file is just the model code from Edge Impulse.  
