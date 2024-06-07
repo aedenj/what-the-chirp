@@ -14,6 +14,6 @@ The goal of our project is to identify birds through their birdsong to facilitat
 
 * Edge Impulse Project - https://studio.edgeimpulse.com/studio/419222
 
-* model.py
+* edge-impulse-model.py
 
   This file is just the model code from Edge Impulse.  
