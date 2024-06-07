@@ -16,4 +16,10 @@ The goal of our project is to identify birds through their birdsong to facilitat
 
 * edge-impulse-model.py
 
-  This file is just the model code from Edge Impulse.  
+  This file is just the model code from Edge Impulse.
+
+* WhatTheChirp.zip
+  
+  The Arduino sketch
+
+  
