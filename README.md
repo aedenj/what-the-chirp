@@ -10,4 +10,4 @@ The goal of our project is to identify birds through their birdsong to facilitat
 
 * EDA.ipynb
 
-This notebook contains metadata analyis of the audio dataset, audio analyis, dataset balancing and dataset preparation for export to Edge Impulse.
+  This notebook contains metadata analyis of the audio dataset, audio analyis, dataset balancing and dataset preparation for export to Edge Impulse.
