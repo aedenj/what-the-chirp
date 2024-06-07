@@ -14,6 +14,8 @@ The goal of our project is to identify birds through their birdsong to facilitat
 
 * Edge Impulse Project - https://studio.edgeimpulse.com/studio/419222
 
+  This is where we did feature generation, model design exploration and packaging for Arduino 
+
 * edge-impulse-model.py
 
   This file is just the model code from Edge Impulse.
