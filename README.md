@@ -32,4 +32,6 @@ The goal of our project is to identify birds through their birdsong to facilitat
 
   A video demonstrating post-deployment results followed by data processing, training, and compression of out ML model on Edge Impulse.
 
+* WhatTheChrip _EEP_596_FinalProjectReport.pdf
 
+  The final report on the project that summarized our problem, methodology, system design and results. 
